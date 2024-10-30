@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "mob/wandering_trader/death",
-      "volume": 1
-    }
-  ],
-  "subtitle": "subtitles.entity.wandering_trader.death"
-}

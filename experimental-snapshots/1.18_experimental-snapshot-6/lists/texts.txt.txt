@@ -1,2 +1,0 @@
-minecraft:end
-minecraft:splashes

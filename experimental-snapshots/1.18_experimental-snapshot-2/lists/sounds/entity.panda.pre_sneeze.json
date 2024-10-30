@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    {
-      "name": "mob/panda/pre_sneeze",
-      "volume": 1
-    }
-  ],
-  "subtitle": "subtitles.entity.panda.pre_sneeze"
-}
